@@ -7,4 +7,11 @@
 + Lenguaje de marcas y sistemas de gestión de información
 + Programación
 + Sistemas informáticos
-+ Itinerario Personal para la Empleabilidad****
++ Itinerario Personal para la Empleabilidad
+
+  
+|  Lunes  |  Martes  |  Miércoles  |  Jueves  |  Viernes  |
+| ------- |----------|-------------|----------|-----------|
+|         |          |             |          |           |
+|         |          |             |          |           |
+|         |          |             |          |           |  
