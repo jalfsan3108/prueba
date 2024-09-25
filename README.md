@@ -1,6 +1,6 @@
 # prueba
 # Tema 1 
-# Ejercicio 4
+# Actividades LM
 `Módulos del curso de desarrollo de aplicaciones web 2024/2025`
 + Entornos de desarrollo
 + Digitalización Aplicada a los Sectores Productivos
