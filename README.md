@@ -2,8 +2,8 @@
 # Tema 1 
 ## Actividades LM
 ## Dibujo
-[Sonic](https://raw.githubusercontent.com/jalfsan3108/prueba/4718f2a02e8517ea9cd24b94ce2cc53f1b932395/sonic.png?token=BLQ2BIG2TXO![sonic](https://github.com/user-attachments/assets/b27b0609-88c4-470a-9cec-fa183cca1f3b)
-F5NQRTL5DEOLG7T56Y) 
+![sonic](https://github.com/user-attachments/assets/b27b0609-88c4-470a-9cec-fa183cca1f3b)
+
 
 *`Módulos del curso de desarrollo de aplicaciones web 2024/2025`*
 + Entornos de desarrollo
