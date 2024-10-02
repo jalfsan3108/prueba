@@ -12,6 +12,6 @@
   
 |  Lunes  |  Martes  |  Miércoles  |  Jueves  |  Viernes  |
 | ------- |----------|-------------|----------|-----------|
-|         |          |             |          |           |
+|`Matemáticas`|`Lengua`          |             |          |           |
 |         |          |             |          |           |
 |         |          |             |          |           |  
