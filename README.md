@@ -1,7 +1,7 @@
 # prueba
 # Tema 1 
 ## Actividades LM
-## Dibujo
+## Abajo está Sonic
 ![sonic](https://github.com/user-attachments/assets/b27b0609-88c4-470a-9cec-fa183cca1f3b)
 
 
